@@ -1,2 +1,2 @@
-# Research-Projects
-Hi! My name is Ethan Do, these are all of the research projects I have completed.
+# Projects
+Hi! My name is Ethan Do, these are all of the projects I have done.
